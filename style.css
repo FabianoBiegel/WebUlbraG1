@@ -1,0 +1,27 @@
+body{
+	background-color:lightgray;
+}
+h2 {
+    font-family: arial;
+    size: 25px;
+    color: Black ;
+}
+label {
+    font-family: arial;
+}
+
+input{
+    border-radius: 0.5em;
+    font-family: arial;
+	width:50px;
+}
+
+select{
+    border-radius: 0.5em;
+    font-family: arial;
+}
+
+#calcular{
+    background-color: blue;
+    color: white;
+}
